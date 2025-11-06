@@ -10,7 +10,7 @@
 
 ------
 
-MigSwinUNet is the code implementation for the paper *"**Analysis of Meandering River Migration Modes Using Remote Sensing Semantic Segmentation**"*.
+MigSwinUNet is the code implementation for the paper *"**Analysis of Meandering River Migration patterns Using Remote Sensing Semantic Segmentation**"*.
 
 ------
 
@@ -67,6 +67,7 @@ E-mail: sunyu_hc@163.com.
    - `data/masks`: Corresponding semantic segmentation labels
 
 ------
+
 
 
 
