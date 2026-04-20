@@ -9,6 +9,15 @@ from utils import *
 from settings import *
 from focal_loss import Focal_Loss
 
+"""
+train.py
+
+Training script for the MigSwinUNet model.
+
+This file is used to train the network on the specified dataset.
+All training-related hyperparameters and path settings are defined in `settings.py`.
+Please configure the parameters in `settings.py` before running this script.
+"""
 
 opt = net_config
 from data_set import TUDataset
